@@ -78,11 +78,11 @@ I read this interesting quote the other day:
  * Has white hair 
  * Is possibly mentally unwell
 #### Answer 5
-1. Cut the cheese
+1. Cut the cheese  
 
  Make sure that the cheese is cut into little triangles.
 
-2. Slice the tomatoes
+2. Slice the tomatoes  
 
  Be careful when holding the knife.
  
@@ -111,7 +111,8 @@ _"Troff was developed by **Bell Labs** for **Unix** operating sywstem. It isn't 
 
 ![Cat](https://media.tenor.com/mkB7b-tq4hAAAAAC/cat-kitty.gif)
 ## Exercise 4
-public class Person{
+<script>
+  public class Person{
   private string name;
   private int age;
 
@@ -129,3 +130,4 @@ public class Person{
     this.age = this.age + 1;
   }
 }
+</script>
