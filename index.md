@@ -73,13 +73,13 @@ I read this interesting quote the other day:
 * Dahlia (_Coreopsideae Dahlia_)
 #### Answer 4
 * Calculus
- * A professor 
- * Has no hair 
- * Often wears green
+  * A professor 
+  * Has no hair 
+  * Often wears green
 * Castafiore 
- * An opera singer
- * Has white hair 
- * Is possibly mentally unwell
+  * An opera singer
+  * Has white hair 
+  * Is possibly mentally unwell
 
 #### Answer 5
 1. Cut the cheese  
@@ -88,7 +88,8 @@ I read this interesting quote the other day:
 
 2. Slice the tomatoes  
  Be careful when holding the knife.
- For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
+ For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.  
+
 ### **Paragraphs**
 #### Answer 1
 We pictured the meek mild creatures where  
